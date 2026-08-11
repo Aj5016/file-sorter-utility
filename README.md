@@ -17,10 +17,10 @@ A powerful and flexible Python script designed to automatically organize files i
 ## Installation
 
 1. Clone this repository or download the script:
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/Aj5016/file-sorter-utility.git
    
 2. Navigate to the downloaded directory:
-   cd YOUR_REPOSITORY_NAME
+   cd file-sorter-utility
 
 ## Usage
 
